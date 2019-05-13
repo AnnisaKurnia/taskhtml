@@ -1,0 +1,16 @@
+* {margin=: 0; padding; 0}
+body {
+	width: 900px;
+	margin: auto;
+	}
+
+menu {
+	width: 960px;
+	background-color: yellow;
+}
+
+.bodi {
+	width: 1000px;
+	overflow: hidden;
+	background-color: gold;
+}
